@@ -14,7 +14,7 @@
 <h2>Pull Requests welcome for contribution</h2>
 <hr>
 <p>John Manouse</p>
-<p>Live Link: <a href="#">Coming Soon!</a></p>
+<p>Live Link: <a href="https://mirageg4.github.io/Responsive-Portfolio/index.html">Responsive Portfolio</a></p>
 <p>Github: <a href="https://github.com/Mirageg4/Responsive-Portfolio">Responsive Porfolio</a></p>
 <hr>
 <p>License:
