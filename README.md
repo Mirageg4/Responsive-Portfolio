@@ -17,10 +17,7 @@
 <p>Live Link: <a href="https://mirageg4.github.io/Responsive-Portfolio/index.html">Responsive Portfolio</a></p>
 <p>Github: <a href="https://github.com/Mirageg4/Responsive-Portfolio">Responsive Porfolio</a></p>
 <hr>
-<p>License:
-<<<<<<< HEAD
-Project is licensed under the MIT License <a href ="LICENSE.md">LICENSE</a> file for details.
-=======
-Project is licensed under the MIT License. See <a href ="LICENSE.md">LICENSE</a> file for details.
->>>>>>> 6af0a84ae65ede49c8328a22218b74ee6ed63d05
+<p>License: Project is licensed under the MIT License. 
+See <a href ="LICENSE.md">LICENSE</a> file for details.
+
 
